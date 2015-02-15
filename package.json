@@ -1,5 +1,5 @@
 {
-  "name": "grunt-i18next-conv",
+  "name": "grunt-hs-i18next-conv",
   "description": "Use i18next-conv to convert translation files.",
   "version": "0.1.5",
   "homepage": "https://github.com/aaronlecompte/grunt-i18next-conv",
